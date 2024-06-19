@@ -1,0 +1,26 @@
+{
+  "name": "oviots-core",
+  "version": "1.0.0",
+  "description": "Onlyvic Internet over Time Space",
+  "author": "OVTeam",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "file-type": "^16.3.0",
+    "i18n": "^0.12.0",
+    "jwt-decode": "^2.2.0",
+    "moment-timezone": "^0.5.32",
+    "mongoose": "5.10.8",
+    "mssql": "^6.2.0",
+    "redis": "^3.0.2",
+    "request": "*",
+    "socket.io-client": "2.3.0",
+    "winston": "^3.2.1",
+    "mongoose-beautiful-unique-validation": "7.1.1",
+    "mongoose-unique-validator": "2.0.3"
+  }
+}
